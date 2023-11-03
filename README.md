@@ -1,8 +1,6 @@
-# Read Me Template
+# Ships Battleground (C++ edition)
 
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
+<img src='https://github.com/CaptainMirage/Ships-BattleGround/assets/87281406/95702994-1a16-456e-91b8-9ac72dc402ef' width='90'>
 
 ---
 
