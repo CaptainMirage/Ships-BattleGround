@@ -5,11 +5,9 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -17,34 +15,77 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+this is a battle ship game that we used to play in papers way back then, if u miss those times and want to play against an AI for this game then have at the!
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- C++
+- Brain
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Ships-Battleground-(C++-edition))
 
 ---
 
 ## How To Use
 
-#### Installation
+
+### Windows :
+
+1. **Install a C++ Compiler:**
+   - Download and install MinGW or another C++ compiler like Visual C++.
+
+2. **Open Command Prompt:**
+   - Press `Win + R`, type `cmd`, and press Enter.
+
+3. **Navigate to the Code Directory:**
+   - Use the `cd` command to navigate to the directory containing your C++ source code.
+
+4. **Compile the Code:**
+   - Use the following command to compile your code:
+     ```bash
+     g++ your_program.cpp -o your_program.exe
+     ```
+     Replace `your_program` with the name of your source file.
+
+5. **Run the Executable:**
+   - Run the compiled executable:
+     ```bash
+     your_program.exe
+     ```
+
+### macOS and Linux
+
+1. **Open Terminal:**
+   - On macOS, find Terminal in Applications > Utilities.
+   - On Linux, use the terminal emulator of your choice.
+
+2. **Navigate to the Code Directory:**
+   - Use the `cd` command to navigate to the directory containing your C++ source code.
+
+3. **Compile the Code:**
+   - Use the following command to compile your code:
+     ```bash
+     g++ your_program.cpp -o your_program
+     ```
+     Replace `your_program` with the desired name for the executable.
+
+4. **Run the Executable:**
+   - Run the compiled executable:
+     ```bash
+     ./your_program
+     ```
+
+### Notes:
+
+- Ensure that you have the C++ compiler installed on your system.
+- Make sure your code is in a file with a `.cpp` extension (e.g., `your_program.cpp`).
+- The `-o` flag in the compilation step specifies the name of the output executable.
+- These instructions assume basic knowledge of navigating the command line.
+
+For any issues, refer to the documentation for your compiler or system.
 
 
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
-
----
-
-## References
-[Back To The Top](#read-me-template)
+[Back To The Top](#Ships-Battleground-(C++-edition))
 
 ---
 
@@ -52,7 +93,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) 2023 Captain Mirage
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -72,13 +113,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Ships-Battleground-(C++-edition))
 
 ---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Email - elliottwittdamirage@gmail.com
+- itch.io - [Captain Mirage](https://captain-mirage.itch.io/foxys-adventure)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Ships-Battleground-(C++-edition))
