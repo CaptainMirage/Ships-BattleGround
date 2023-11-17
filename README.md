@@ -32,7 +32,8 @@ this is a battle ship game that we used to play in papers way back then, if u mi
 ### Windows :
 
 1. **Install a C++ Compiler:**
-   - Download and install MinGW or another C++ compiler like Visual C++.
+   - Download and install [MinGW](https://github.com/msys2/msys2-installer/releases/download/2023-05-26/msys2-x86_64-20230526.exe) or another C++ compiler like Visual C++.
+   - if you cant find any installtion methods for MinGW continue on with [this toturial](https://code.visualstudio.com/docs/cpp/config-mingw) but dont install VScode, only continue with the MinGW installation
 
 2. **Open Command Prompt:**
    - Press `Win + R`, type `cmd`, and press Enter.
